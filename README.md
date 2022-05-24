@@ -16,3 +16,6 @@ Analysis:
 #### Proposed Architecture
 ![Alt text](assets/architecture.jpg?raw=true "architecture")
 
+#### Dashboard
+https://public.tableau.com/app/profile/darren.hum/viz/ML-hotel-reviews-sentiment-and-topic-1_0/Introduction?
+
